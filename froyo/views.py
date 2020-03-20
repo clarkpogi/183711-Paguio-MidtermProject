@@ -32,6 +32,12 @@ class OrdersUpdateFormView(UpdateView):
 	model = None
 	template_name = 'orders_update_form.html'
 
+class RecipesCreateFormView(CreateView):
+	model = None
+	template_name = 'recipes_create_form.html'
+
+
+
 
 
 

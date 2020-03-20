@@ -1128,3 +1128,434 @@ JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 14
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1584705994785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofile3fVrPY"
+1584706000081	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706006387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706006388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706006389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706006391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[GFX1-]: WMF VPX decoder just crashed; hardware video will be disabled.
+[Parent 15776, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 15776, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584706048010	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706048011	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706048924	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706048925	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706048967	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706048968	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706049006	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706049006	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706049058	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706049059	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706049324	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706049324	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706049607	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+1584706049608	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+_activateAddon@XPIInstall.jsm:4365:7
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584706060309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileklEUBF"
+1584706063098	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706065953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706065953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706065954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706065954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706079571	Marionette	INFO	Listening on port 61181
+1584706080756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706092648	Marionette	INFO	Stopped listening on port 61181
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706108460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileVT46SC"
+1584706112104	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706115029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706115030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706115030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706115031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706122074	Marionette	INFO	Listening on port 61255
+1584706122433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706125620	Marionette	INFO	Stopped listening on port 61255
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 669: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706135185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileaigBE6"
+1584706137917	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706142428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706142428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706142429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706142429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706149471	Marionette	INFO	Listening on port 61296
+1584706149861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706154926	Marionette	INFO	Stopped listening on port 61296
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60013,name=PWindowGlobal::Msg_Destroy) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706172738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofile419hYx"
+1584706174320	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706177051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706177051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706177052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706177052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706182127	Marionette	INFO	Listening on port 61353
+1584706182229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706188933	Marionette	INFO	Stopped listening on port 61353
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706226232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileuZEgjh"
+1584706227597	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706229443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706229443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706229444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706229444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706234344	Marionette	INFO	Listening on port 61420
+1584706234570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706237426	Marionette	INFO	Stopped listening on port 61420
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706252054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofilepCDuJi"
+1584706253084	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706255080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706255081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706255081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706255082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706260933	Marionette	INFO	Listening on port 61469
+1584706261071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706264518	Marionette	INFO	Stopped listening on port 61469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706274244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofile1tPXE5"
+1584706275995	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706278809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706278810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706278810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706278811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706284236	Marionette	INFO	Listening on port 61511
+1584706284687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706287753	Marionette	INFO	Stopped listening on port 61511
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706297505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofile7c5E06"
+1584706299298	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706301719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706301720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706301720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706301720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1584706309282	Marionette	INFO	Listening on port 61546
+1584706309539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706314910	Marionette	INFO	Stopped listening on port 61546
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706327434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofilerLdRa7"
+1584706330255	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706333056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706333056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706333057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706333057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706338002	Marionette	INFO	Listening on port 61586
+1584706338475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706341643	Marionette	INFO	Stopped listening on port 61586
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+1584706524189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileUinLyl"
+1584706525931	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706528794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706528794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706528794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706528795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706533820	Marionette	INFO	Listening on port 61643
+1584706534139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706537083	Marionette	INFO	Stopped listening on port 61643
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 669: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB getLastModified() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB getLastModified() A request was aborted, for example through a call to IDBTransaction.abort.
+console.warn: services.settings: Error retrieving the getLastModified timestamp from blocklists/plugins RemoteSettingClient Message: Error: IndexedDB getLastModified() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60013,name=PWindowGlobal::Msg_Destroy) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706575140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofile6opHmJ"
+1584706576209	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706578249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706578250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706578250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706578250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706582903	Marionette	INFO	Listening on port 61693
+1584706582979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706587228	Marionette	INFO	Stopped listening on port 61693
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 669: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706597279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofile10XLo5"
+1584706598463	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706600392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706600392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706600392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706600393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706605557	Marionette	INFO	Listening on port 61744
+1584706605654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706608267	Marionette	INFO	Stopped listening on port 61744
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706615967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofilemSMScJ"
+1584706617094	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706619130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706619130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706619131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706619131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706624326	Marionette	INFO	Listening on port 61783
+1584706624428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706627230	Marionette	INFO	Stopped listening on port 61783
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706634770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileBLcNTz"
+1584706635931	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706637943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706637944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706637944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706637944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706642599	Marionette	INFO	Listening on port 61816
+1584706642637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706646315	Marionette	INFO	Stopped listening on port 61816
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 246: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavHistoryService.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706655552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileYSs7Ty"
+1584706656853	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706658741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706658742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706658742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706658743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706663467	Marionette	INFO	Listening on port 61857
+1584706663901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706667096	Marionette	INFO	Stopped listening on port 61857
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 246: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavHistoryService.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 669: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706675324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileDBOT1J"
+1584706676501	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706678581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706678581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706678581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706678582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706683221	Marionette	INFO	Listening on port 61897
+1584706683681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706686164	Marionette	INFO	Stopped listening on port 61897
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706693932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofile6ooRYT"
+1584706695048	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706697144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706697144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706697144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706697145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706701925	Marionette	INFO	Listening on port 61934
+1584706702294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706705269	Marionette	INFO	Stopped listening on port 61934
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706713365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofileC04jLr"
+1584706714491	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706716451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706716451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706716451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706716452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706721340	Marionette	INFO	Listening on port 61972
+1584706721695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706724357	Marionette	INFO	Stopped listening on port 61972
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60013,name=PWindowGlobal::Msg_Destroy) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584706731958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANTHON~1\\AppData\\Local\\Temp\\rust_mozprofile3z6OJu"
+1584706733049	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584706735125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584706735125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584706735126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584706735126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584706740175	Marionette	INFO	Listening on port 62012
+1584706740306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584706743504	Marionette	INFO	Stopped listening on port 62012
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
