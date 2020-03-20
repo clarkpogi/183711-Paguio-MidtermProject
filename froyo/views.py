@@ -41,10 +41,7 @@ class RecipesDetailView(DetailView):
 
 class RecipesListView(ListView):
 	model = None
-
-
-
-
-
-
-
+	
+class RecipesUpdateFormView(UpdateView):
+	model = None
+	template_name = 'recipes_update_form.html'
