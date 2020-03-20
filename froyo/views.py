@@ -36,6 +36,10 @@ class RecipesCreateFormView(CreateView):
 	model = None
 	template_name = 'recipes_create_form.html'
 
+class RecipesDetailView(DetailView):
+	model = None
+
+
 
 
 

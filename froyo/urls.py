@@ -17,7 +17,7 @@ Including another URLconf
 from django.conf.urls import url
 from .views import IngredientsCreateFormView, IngredientsDetailView, IngredientsListView, IngredientsUpdateFormView
 from .views import OrdersCreateFormView, OrdersDetailView, OrdersListView, OrdersUpdateFormView
-from .views import RecipesCreateFormView
+from .views import RecipesCreateFormView, RecipesDetailView
 
 urlpatterns = [
     url(r'^ingredients_create_form$',IngredientsCreateFormView.as_view(),name='ICF'),
@@ -29,5 +29,6 @@ urlpatterns = [
     url(r'^orders_list$',OrdersListView.as_view(),name='OL'),
     url(r'^orders_update_form$',OrdersUpdateFormView.as_view(),name='OUF'),
     url(r'^recipes_create_form$',RecipesCreateFormView.as_view(),name='RCF'),
+    url(r'^recipes_detail$',RecipesDetailView.as_view(),name='RD'),
     
 ]
