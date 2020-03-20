@@ -28,5 +28,10 @@ class OrdersDetailView(DetailView):
 class OrdersListView(ListView):
 	model = None
 
+class OrdersUpdateFormView(UpdateView):
+	model = None
+	template_name = 'orders_update_form.html'
+
+
 
 

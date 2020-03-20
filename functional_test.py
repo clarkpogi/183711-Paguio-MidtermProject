@@ -47,7 +47,12 @@ class NewVisitorTest(unittest.TestCase):
         def test_display_OL(self):
                 self.browser.get('http://localhost:8000/orders_list')
                 self.assertIn('Orders - List', self.browser.title)
-                self.assertIn('http://localhost:8000/orders_list', self.browser.current_url)
+                self.assertIn('http://localhost:8000/orders_list', self.browser.current_url)     
+
+        def test_display_OUF(self):
+                self.browser.get('http://localhost:8000/orders_update_form')
+                self.assertIn('Orders - Update Form', self.browser.title)
+                self.assertIn('http://localhost:8000/orders_update_form', self.browser.current_url)
                 self.fail('Finish the test!')
                 
 if __name__ == '__main__':
