@@ -29,6 +29,11 @@ class NewVisitorTest(unittest.TestCase):
                 self.assertIn('Ingredients - List', self.browser.title)
                 self.assertIn('http://localhost:8000/ingredients_list', self.browser.current_url)
                 self.fail('Finish the test!')
+
+        def test_display_IUF(self):
+                self.browser.get('http://localhost:8000/ingredients_update_form')
+                self.assertIn('Ingredients - Update Form', self.browser.title)
+                self.assertIn('http://localhost:8000/ingredients_update_form', self.browser.current_url)
                 
 if __name__ == '__main__':
         unittest.main(warnings = 'ignore')

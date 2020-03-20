@@ -13,3 +13,8 @@ class IngredientsDetailView(DetailView):
 	
 class IngredientsListView(ListView):
 	model = None
+
+class IngredientsUpdateFormView(UpdateView):
+	model = None
+	template_name = 'ingredients_update_form.html'
+
