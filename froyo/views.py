@@ -10,3 +10,6 @@ class IngredientsCreateFormView(CreateView):
 	
 class IngredientsDetailView(DetailView):
 	model = None
+	
+class IngredientsListView(ListView):
+	model = None
