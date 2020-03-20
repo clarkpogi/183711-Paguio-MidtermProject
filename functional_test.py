@@ -18,8 +18,13 @@ class NewVisitorTest(unittest.TestCase):
                 self.browser.get('http://localhost:8000/ingredients_create_form')
                 self.assertIn('Ingredients - Create Form', self.browser.title)
                 self.assertIn('http://localhost:8000/ingredients_create_form', self.browser.current_url)
+                
+        def test_display_ID(self):
+                self.browser.get('http://localhost:8000/ingredients_detail')
+                self.assertIn('Ingredients - Detail', self.browser.title)
+                self.assertIn('http://localhost:8000/ingredients_detail', self.browser.current_url)
                 self.fail('Finish the test!')
-
+                
 if __name__ == '__main__':
         unittest.main(warnings = 'ignore')
 
