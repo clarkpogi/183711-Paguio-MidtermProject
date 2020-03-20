@@ -18,3 +18,8 @@ class IngredientsUpdateFormView(UpdateView):
 	model = None
 	template_name = 'ingredients_update_form.html'
 
+class OrdersCreateFormView(CreateView):
+	model = None
+	template_name = 'orders_create_form.html'
+
+

@@ -15,12 +15,13 @@ Including another URLconf
 """
 
 from django.conf.urls import url
-from .views import IngredientsCreateFormView, IngredientsDetailView, IngredientsListView, IngredientsUpdateFormView
+from .views import IngredientsCreateFormView, IngredientsDetailView, IngredientsListView, IngredientsUpdateFormView, OrdersCreateFormView
 
 urlpatterns = [
     url(r'^ingredients_create_form$',IngredientsCreateFormView.as_view(),name='ICF'),
     url(r'^ingredients_detail$',IngredientsDetailView.as_view(),name='ID'),
     url(r'^ingredients_list$', IngredientsListView.as_view(), name='IL'),
     url(r'^ingredients_update_form$',IngredientsUpdateFormView.as_view(),name='IUF'),
+    url(r'^orders_create_form$',OrdersCreateFormView.as_view(),name='OCF'),
     
 ]
