@@ -39,6 +39,9 @@ class RecipesCreateFormView(CreateView):
 class RecipesDetailView(DetailView):
 	model = None
 
+class RecipesListView(ListView):
+	model = None
+
 
 
 
