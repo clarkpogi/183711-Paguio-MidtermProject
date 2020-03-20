@@ -25,5 +25,8 @@ class OrdersCreateFormView(CreateView):
 class OrdersDetailView(DetailView):
 	model = None
 
+class OrdersListView(ListView):
+	model = None
+
 
 
